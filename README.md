@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">An aspiring Data Analyst & BI professional from Brazil</h3>
+
 - I’m currently working on I'm currently working on projects about data analysis and machine learning.<br>
 - I’m currently learning Python and Machine Learning<br>
 - I’m looking to collaborate on projects related to data analysis, business intelligence and Python<br>
