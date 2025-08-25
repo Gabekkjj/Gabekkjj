@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">An aspiring Data Analyst & BI professional from Brazil</h3>
 
-- 🔭 I’m currently working on **I'm currently working on projects about data analysis and machine learning.**
+-  I’m currently working on **I'm currently working on projects about data analysis and machine learning.**
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+-  I’m currently learning **Python and Machine Learning**
 
-- 👯 I’m looking to collaborate on **projects related to data analysis, business intelligence and Python**
+-  I’m looking to collaborate on **projects related to data analysis, business intelligence and Python**
 
-- 🤝 I’m looking for help with **advanced Python libraries like machine learning models**
+-  I’m looking for help with **advanced Python libraries like machine learning models**
 
-- 💬 Ask me about **data wrangling, Excel automation with VBA, and Power BI dashboards**
+-  Ask me about **data wrangling, Excel automation with VBA, and Power BI dashboards**
 
-- 📫 How to reach me **gabrielbastos.gh@gmail.com, or in my linkedin profile https://www.linkedin.com/in/gabrielbastoshtz/**
+-  How to reach me **gabrielbastos.gh@gmail.com, or in my linkedin profile https://www.linkedin.com/in/gabrielbastoshtz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
